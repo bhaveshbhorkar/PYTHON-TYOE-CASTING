@@ -1,2 +1,2 @@
-# PYTHON-TYOE-CASTING
+# PYTHON-TYPE-CASTING
 In this i've done typecasting
